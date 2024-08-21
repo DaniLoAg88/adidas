@@ -302,70 +302,196 @@
 
         <div class="responsive">
             <div class="galeria">
-
-                <a href="media/bañador-corto-hombre.webp">
-                    <img src="media/bañador-corto-hombre.webp" alt="Bañador adidas" class="galeria-item">
+                <a href="media/sudadera-marron-hombre-adidas.webp">
+                    <img src="media/sudadera-marron-hombre-adidas.webp" alt="Sudadera adidas" class="galeria-item">
                 </a>
-                <div class="descripcion">25€</div>
+                <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
                     <input type="hidden" name="id-producto" value="5">
-                    <input type="hidden" name="nombre-producto" value="bañador corto hombre adidas">
-                    <input type="hidden" name="precio" value="25">
+                    <input type="hidden" name="nombre-producto" value="sudadera marron hombre adidas">
+                    <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
                         <label for="cantidad">Cantidad</label>
                         <input type="number" name="cantidad" id="cantidad" value="1" min="1">
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
-
             </div>
         </div>
 
         <div class="responsive">
             <div class="galeria">
-
-                <a href="media/bañador-corto-hombre.webp">
-                    <img src="media/bañador-corto-hombre.webp" alt="Bañador adidas" class="galeria-item">
+                <a href="media/pantalones-negros-hombre-adidas.webp">
+                    <img src="media/pantalones-negros-hombre-adidas.webp" alt="Pantalon adidas" class="galeria-item">
                 </a>
-                <div class="descripcion">25€</div>
+                <div class="descripcion">40€</div>
                 <form action="carrito.php" method="post">
                     <input type="hidden" name="id-producto" value="5">
-                    <input type="hidden" name="nombre-producto" value="bañador corto hombre adidas">
-                    <input type="hidden" name="precio" value="25">
+                    <input type="hidden" name="nombre-producto" value="pantalon negro hombre adidas">
+                    <input type="hidden" name="precio" value="40">
                     <p class="cantidad">
                         <label for="cantidad">Cantidad</label>
                         <input type="number" name="cantidad" id="cantidad" value="1" min="1">
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
-
             </div>
         </div>
 
         <div class="responsive">
             <div class="galeria">
-
-                <a href="media/bañador-corto-hombre.webp">
-                    <img src="media/bañador-corto-hombre.webp" alt="Bañador adidas" class="galeria-item">
+                <a href="media/pantalones-azules-hombre-adidas.webp">
+                    <img src="media/pantalones-azules-hombre-adidas.webp" alt="Pantalon adidas" class="galeria-item">
                 </a>
-                <div class="descripcion">25€</div>
+                <div class="descripcion">40€</div>
                 <form action="carrito.php" method="post">
                     <input type="hidden" name="id-producto" value="5">
-                    <input type="hidden" name="nombre-producto" value="bañador corto hombre adidas">
-                    <input type="hidden" name="precio" value="25">
+                    <input type="hidden" name="nombre-producto" value="pantalon azul hombre adidas">
+                    <input type="hidden" name="precio" value="40">
                     <p class="cantidad">
                         <label for="cantidad">Cantidad</label>
                         <input type="number" name="cantidad" id="cantidad" value="1" min="1">
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
-
             </div>
         </div>
 
         <div class="responsive">
             <div class="galeria">
+                <a href="media/gorro-hombre-adidas.webp">
+                    <img src="media/gorro-hombre-adidas.webp" alt="Gorro adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">25€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="gorro hombre adidas">
+                    <input type="hidden" name="precio" value="25">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
 
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-verde-hombre-adidas.webp">
+                    <img src="media/chandal-verde-hombre-adidas.webp" alt="Chandal adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">80€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="chandal verde hombre adidas">
+                    <input type="hidden" name="precio" value="80">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-rosa-hombre-adidas.webp">
+                    <img src="media/chandal-rosa-hombre-adidas.webp" alt="Chandal adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">80€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="chandal rosa hombre adidas">
+                    <input type="hidden" name="precio" value="80">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-negro-hombre-adidas.webp">
+                    <img src="media/chandal-negro-hombre-adidas.webp" alt="Chandal adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">80€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="chandal negro hombre adidas">
+                    <input type="hidden" name="precio" value="80">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/cazadora-juventus-hombre-adidas.webp">
+                    <img src="media/cazadora-juventus-hombre-adidas.webp" alt="Cazadora adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">125€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="cazadora juventus hombre adidas">
+                    <input type="hidden" name="precio" value="125">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/bañador-hojas-hombre-adidas.webp">
+                    <img src="media/bañador-hojas-hombre-adidas.webp" alt="Bañador adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">30€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="bañador hojas hombre adidas">
+                    <input type="hidden" name="precio" value="30">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/bañador-verde-hombre-adidas.webp">
+                    <img src="media/bañador-verde-hombre-adidas.webp" alt="Bañador adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">30€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="nombre-producto" value="bañador verde hombre adidas">
+                    <input type="hidden" name="precio" value="30">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
                 <a href="media/bañador-corto-hombre.webp">
                     <img src="media/bañador-corto-hombre.webp" alt="Bañador adidas" class="galeria-item">
                 </a>
@@ -380,7 +506,63 @@
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
+            </div>
+        </div>
 
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chaqueta-rosa-hombre-adidas.webm">
+                    <video src="media/chaqueta-rosa-hombre-adidas.webm" alt="Chaqueta adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">60€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="chaqueta rosa hombre adidas">
+                    <input type="hidden" name="precio" value="60">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chaqueta-negra-hombre-adidas.webm">
+                    <video src="media/chaqueta-negra-hombre-adidas.webm" alt="Chaqueta adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">60€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="chaqueta negra hombre adidas">
+                    <input type="hidden" name="precio" value="60">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-burdeos-hombre-adidas.webm">
+                    <video src="media/chandal-burdeos-hombre-adidas.webm" alt="Chandal adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">90€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="chandal burdeos hombre adidas">
+                    <input type="hidden" name="precio" value="90">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
             </div>
         </div>
 
