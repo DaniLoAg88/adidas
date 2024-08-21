@@ -13,70 +13,139 @@
         <!-- Es muy utilizado en php input type=hidden -> Pasa parámetros pero no los muestra -> Método POSt o GET -->
         <div class="responsive">
             <div class="galeria">
-
-                <a href="media/conjunto-rosa-mujer-adidas.webp">
-                    <img src="media/conjunto-rosa-mujer-adidas.webp" alt="Conjunto adidas" class="galeria-item">
+                <a href="media/yoga-mujer-adidas.webp">
+                    <img src="media/yoga-mujer-adidas.webp" alt="Conjunto yoga adidas" class="galeria-item">
                 </a>
-                <div class="descripcion">85€</div>
+                <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
                     <input type="hidden" name="id-producto" value="1">
-                    <input type="hidden" name="nombre-producto" value="conjunto rosa mujer adidas">
-                    <input type="hidden" name="precio" value="85">
+                    <input type="hidden" name="nombre-producto" value="conjunto yoga mujer adidas">
+                    <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
                         <label for="cantidad">Cantidad</label>
                         <input type="number" name="cantidad" id="cantidad" value="1" min="1">
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
-
             </div>
         </div>
 
         <div class="responsive">
             <div class="galeria">
-
-                <a href="media/conjunto-rosa-mujer-adidas.webp">
-                    <img src="media/conjunto-rosa-mujer-adidas.webp" alt="Conjunto adidas" class="galeria-item">
+                <a href="media/panuelo-mujer-adidas.webp">
+                    <img src="media/panuelo-mujer-adidas.webp" alt="Pañuelo adidas" class="galeria-item">
                 </a>
-                <div class="descripcion">85€</div>
+                <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
                     <input type="hidden" name="id-producto" value="1">
-                    <input type="hidden" name="nombre-producto" value="conjunto rosa mujer adidas">
-                    <input type="hidden" name="precio" value="85">
+                    <input type="hidden" name="nombre-producto" value="panuelo mujer adidas">
+                    <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
                         <label for="cantidad">Cantidad</label>
                         <input type="number" name="cantidad" id="cantidad" value="1" min="1">
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
-
             </div>
         </div>
 
         <div class="responsive">
             <div class="galeria">
-
-                <a href="media/conjunto-rosa-mujer-adidas.webp">
-                    <img src="media/conjunto-rosa-mujer-adidas.webp" alt="Conjunto adidas" class="galeria-item">
+                <a href="media/mujer-cinta-elastica-adidas.webp">
+                    <img src="media/mujer-cinta-elastica-adidas.webp" alt="Cinta mujer adidas" class="galeria-item">
                 </a>
-                <div class="descripcion">85€</div>
+                <div class="descripcion">20€</div>
                 <form action="carrito.php" method="post">
                     <input type="hidden" name="id-producto" value="1">
-                    <input type="hidden" name="nombre-producto" value="conjunto rosa mujer adidas">
-                    <input type="hidden" name="precio" value="85">
+                    <input type="hidden" name="nombre-producto" value="cinta mujer adidas">
+                    <input type="hidden" name="precio" value="20">
                     <p class="cantidad">
                         <label for="cantidad">Cantidad</label>
                         <input type="number" name="cantidad" id="cantidad" value="1" min="1">
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
-
             </div>
         </div>
 
         <div class="responsive">
             <div class="galeria">
+                <a href="media/mujer-balon-medicinal-adidas.webp">
+                    <img src="media/mujer-balon-medicinal-adidas.webp" alt="Balon medicinal adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">30€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="balon medicinal adidas">
+                    <input type="hidden" name="precio" value="30">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
 
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/dos-mujeres-camiseta-adidas.webp">
+                    <img src="media/dos-mujeres-camiseta-adidas.webp" alt="Camisetas mujer adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">25€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="camisetas mujer adidas">
+                    <input type="hidden" name="precio" value="25">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/conjunto-rosa-tenis-mujer-adidas.webp">
+                    <img src="media/conjunto-rosa-tenis-mujer-adidas.webp" alt="Conjunto tenis adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">55€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="conjunto tenis mujer adidas">
+                    <input type="hidden" name="precio" value="55">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/conjunto-rojo-mujer-adidas.webp">
+                    <img src="media/conjunto-rojo-mujer-adidas.webp" alt="Conjunto rojo adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">60€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="conjunto rojo mujer adidas">
+                    <input type="hidden" name="precio" value="60">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
                 <a href="media/conjunto-rosa-mujer-adidas.webp">
                     <img src="media/conjunto-rosa-mujer-adidas.webp" alt="Conjunto adidas" class="galeria-item">
                 </a>
@@ -91,7 +160,139 @@
                     </p>
                     <input type="submit" name="agregar" value="Comprar" class="boton">
                 </form>
+            </div>
+        </div>
 
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-verde-mujer-adidas.webp">
+                    <img src="media/chandal-verde-mujer-adidas.webp" alt="Chandal verde adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">85€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="chandal verde mujer adidas">
+                    <input type="hidden" name="precio" value="85">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-negro-mujer-adidas.webp">
+                    <img src="media/chandal-negro-mujer-adidas.webp" alt="Chandal negro adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">85€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="chandal negro mujer adidas">
+                    <input type="hidden" name="precio" value="85">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/cazadora-negra-mujer-adidas.webp">
+                    <img src="media/cazadora-negra-mujer-adidas.webp" alt="Cazadora adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">110€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="cazadora negra mujer adidas">
+                    <input type="hidden" name="precio" value="110">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/calcetines-rosas-verdes-mujer.jpg">
+                    <img src="media/calcetines-rosas-verdes-mujer.jpg" alt="Calcetines adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">15€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="calcetines mujer adidas">
+                    <input type="hidden" name="precio" value="15">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/pantalon-corto-azul-mujer-adidas.webm">
+                    <video src="media/pantalon-corto-azul-mujer-adidas.webm" alt="Conjunto adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">35€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="pantalon azul mujer adidas">
+                    <input type="hidden" name="precio" value="35">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/chandal-azul-marino-mujer-adidas.webm">
+                    <video src="media/chandal-azul-marino-mujer-adidas.webm" alt="Chandal azul adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">35€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="chandal azul mujer adidas">
+                    <input type="hidden" name="precio" value="35">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
+            </div>
+        </div>
+
+        <div class="responsive">
+            <div class="galeria">
+                <a href="media/cazadora-terrez-mujer-adidas.webm">
+                    <video src="media/cazadora-terrez-mujer-adidas.webm" alt="Cazadora adidas" class="galeria-item">
+                </a>
+                <div class="descripcion">110€</div>
+                <form action="carrito.php" method="post">
+                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="nombre-producto" value="cazadora terrez mujer adidas">
+                    <input type="hidden" name="precio" value="110">
+                    <p class="cantidad">
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" name="cantidad" id="cantidad" value="1" min="1">
+                    </p>
+                    <input type="submit" name="agregar" value="Comprar" class="boton">
+                </form>
             </div>
         </div>
 
