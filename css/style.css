@@ -125,9 +125,122 @@ div.descripcion{
 }
 
 input[type="number"]{
-    width: 10%;
+    width: 15%;
 }
 
 .video{
     width: 100%;
+}
+
+.container-2{
+    width: 80%;
+    display: flex;
+
+    margin: auto;
+}
+
+.container-2 div{
+    padding: 25px;
+    width: 50%;
+}
+
+.metodoPago{
+    width: 25%;
+    margin: 0 50px;
+}
+
+.container-3{
+    width: 40%;
+    padding: 16px;
+    margin: 4% auto;
+}
+
+hr{
+    width: 45%;
+    margin: 0;
+    opacity: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.divPago{
+    border: 1px solid rgba(119, 119, 119, 0.5);
+    border-radius: 15px;
+    width: 70%;
+}
+
+.divDatosOperacion{
+    width: 25%;
+    background-color: #F8F8F8;
+    border: 1px solid rgba(119, 119, 119, 0.5);
+    border-radius: 10px;
+}
+
+.btnPagar,
+.btnCancelar{
+    background-color: #1118a8;
+    color: #F8F8F8;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 45px;
+    width: 120px;
+}
+
+.btnCancelar{
+    background-color: #838383;
+}
+
+.divPago input[type="number"]{
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.containerPago{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.containerPago div{
+    margin: 35px;
+    padding: 25px;
+}
+
+.inputTarjeta,
+.inputCVV{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.btnTramitar{
+    background-color: #161617;
+    color: #F8F8F8;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 45px;
+    width: 120px;
+    margin-top: 100px;
+}
+
+td{
+    height: 50px;
+}
+
+.textoCentrado{
+    text-align: center;
 }

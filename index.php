@@ -37,7 +37,7 @@
                 </a>
                 <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="2">
                     <input type="hidden" name="nombre-producto" value="panuelo mujer adidas">
                     <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
@@ -56,7 +56,7 @@
                 </a>
                 <div class="descripcion">20€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="3">
                     <input type="hidden" name="nombre-producto" value="cinta mujer adidas">
                     <input type="hidden" name="precio" value="20">
                     <p class="cantidad">
@@ -75,7 +75,7 @@
                 </a>
                 <div class="descripcion">30€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="4">
                     <input type="hidden" name="nombre-producto" value="balon medicinal adidas">
                     <input type="hidden" name="precio" value="30">
                     <p class="cantidad">
@@ -94,7 +94,7 @@
                 </a>
                 <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="5">
                     <input type="hidden" name="nombre-producto" value="camisetas mujer adidas">
                     <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
@@ -113,7 +113,7 @@
                 </a>
                 <div class="descripcion">55€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="6">
                     <input type="hidden" name="nombre-producto" value="conjunto tenis mujer adidas">
                     <input type="hidden" name="precio" value="55">
                     <p class="cantidad">
@@ -132,7 +132,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="7">
                     <input type="hidden" name="nombre-producto" value="conjunto rojo mujer adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -151,7 +151,7 @@
                 </a>
                 <div class="descripcion">85€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="8">
                     <input type="hidden" name="nombre-producto" value="conjunto rosa mujer adidas">
                     <input type="hidden" name="precio" value="85">
                     <p class="cantidad">
@@ -170,7 +170,7 @@
                 </a>
                 <div class="descripcion">85€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="9">
                     <input type="hidden" name="nombre-producto" value="chandal verde mujer adidas">
                     <input type="hidden" name="precio" value="85">
                     <p class="cantidad">
@@ -189,7 +189,7 @@
                 </a>
                 <div class="descripcion">85€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="10">
                     <input type="hidden" name="nombre-producto" value="chandal negro mujer adidas">
                     <input type="hidden" name="precio" value="85">
                     <p class="cantidad">
@@ -208,7 +208,7 @@
                 </a>
                 <div class="descripcion">110€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="11">
                     <input type="hidden" name="nombre-producto" value="cazadora negra mujer adidas">
                     <input type="hidden" name="precio" value="110">
                     <p class="cantidad">
@@ -227,7 +227,7 @@
                 </a>
                 <div class="descripcion">15€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="12">
                     <input type="hidden" name="nombre-producto" value="calcetines mujer adidas">
                     <input type="hidden" name="precio" value="15">
                     <p class="cantidad">
@@ -246,7 +246,7 @@
                 </a>
                 <div class="descripcion">35€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="13">
                     <input type="hidden" name="nombre-producto" value="pantalon azul mujer adidas">
                     <input type="hidden" name="precio" value="35">
                     <p class="cantidad">
@@ -265,7 +265,7 @@
                 </a>
                 <div class="descripcion">35€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="14">
                     <input type="hidden" name="nombre-producto" value="chandal azul mujer adidas">
                     <input type="hidden" name="precio" value="35">
                     <p class="cantidad">
@@ -284,7 +284,7 @@
                 </a>
                 <div class="descripcion">110€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="15">
                     <input type="hidden" name="nombre-producto" value="cazadora terrez mujer adidas">
                     <input type="hidden" name="precio" value="110">
                     <p class="cantidad">
@@ -307,7 +307,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="16">
                     <input type="hidden" name="nombre-producto" value="sudadera marron hombre adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
@@ -326,7 +326,7 @@
                 </a>
                 <div class="descripcion">40€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="17">
                     <input type="hidden" name="nombre-producto" value="pantalon negro hombre adidas">
                     <input type="hidden" name="precio" value="40">
                     <p class="cantidad">
@@ -345,7 +345,7 @@
                 </a>
                 <div class="descripcion">40€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="18">
                     <input type="hidden" name="nombre-producto" value="pantalon azul hombre adidas">
                     <input type="hidden" name="precio" value="40">
                     <p class="cantidad">
@@ -364,7 +364,7 @@
                 </a>
                 <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="19">
                     <input type="hidden" name="nombre-producto" value="gorro hombre adidas">
                     <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
@@ -383,7 +383,7 @@
                 </a>
                 <div class="descripcion">80€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="20">
                     <input type="hidden" name="nombre-producto" value="chandal verde hombre adidas">
                     <input type="hidden" name="precio" value="80">
                     <p class="cantidad">
@@ -402,7 +402,7 @@
                 </a>
                 <div class="descripcion">80€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="21">
                     <input type="hidden" name="nombre-producto" value="chandal rosa hombre adidas">
                     <input type="hidden" name="precio" value="80">
                     <p class="cantidad">
@@ -421,7 +421,7 @@
                 </a>
                 <div class="descripcion">80€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="22">
                     <input type="hidden" name="nombre-producto" value="chandal negro hombre adidas">
                     <input type="hidden" name="precio" value="80">
                     <p class="cantidad">
@@ -440,7 +440,7 @@
                 </a>
                 <div class="descripcion">125€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="23">
                     <input type="hidden" name="nombre-producto" value="cazadora juventus hombre adidas">
                     <input type="hidden" name="precio" value="125">
                     <p class="cantidad">
@@ -459,7 +459,7 @@
                 </a>
                 <div class="descripcion">30€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="24">
                     <input type="hidden" name="nombre-producto" value="bañador hojas hombre adidas">
                     <input type="hidden" name="precio" value="30">
                     <p class="cantidad">
@@ -478,7 +478,7 @@
                 </a>
                 <div class="descripcion">30€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="25">
                     <input type="hidden" name="nombre-producto" value="bañador verde hombre adidas">
                     <input type="hidden" name="precio" value="30">
                     <p class="cantidad">
@@ -497,7 +497,7 @@
                 </a>
                 <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="5">
+                    <input type="hidden" name="id-producto" value="26">
                     <input type="hidden" name="nombre-producto" value="bañador corto hombre adidas">
                     <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
@@ -516,7 +516,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="27">
                     <input type="hidden" name="nombre-producto" value="chaqueta rosa hombre adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -535,7 +535,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="28">
                     <input type="hidden" name="nombre-producto" value="chaqueta negra hombre adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -554,7 +554,7 @@
                 </a>
                 <div class="descripcion">90€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="1">
+                    <input type="hidden" name="id-producto" value="29">
                     <input type="hidden" name="nombre-producto" value="chandal burdeos hombre adidas">
                     <input type="hidden" name="precio" value="90">
                     <p class="cantidad">
@@ -577,7 +577,7 @@
                 </a>
                 <div class="descripcion">35€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="30">
                     <input type="hidden" name="nombre-producto" value="sudadera rosa ninos adidas">
                     <input type="hidden" name="precio" value="35">
                     <p class="cantidad">
@@ -596,7 +596,7 @@
                 </a>
                 <div class="descripcion">35€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="31">
                     <input type="hidden" name="nombre-producto" value="sudadera negra ninos adidas">
                     <input type="hidden" name="precio" value="35">
                     <p class="cantidad">
@@ -615,7 +615,7 @@
                 </a>
                 <div class="descripcion">20€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="32">
                     <input type="hidden" name="nombre-producto" value="pijama ninos adidas">
                     <input type="hidden" name="precio" value="20">
                     <p class="cantidad">
@@ -634,7 +634,7 @@
                 </a>
                 <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="33">
                     <input type="hidden" name="nombre-producto" value="gorra kitty ninos adidas">
                     <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
@@ -653,7 +653,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="34">
                     <input type="hidden" name="nombre-producto" value="chandal negro ninos adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
@@ -672,7 +672,7 @@
                 </a>
                 <div class="descripcion">55€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="35">
                     <input type="hidden" name="nombre-producto" value="chaqueta pantalon ninos adidas">
                     <input type="hidden" name="precio" value="55">
                     <p class="cantidad">
@@ -691,7 +691,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="36">
                     <input type="hidden" name="nombre-producto" value="chandal multicolor ninos adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -710,7 +710,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="37">
                     <input type="hidden" name="nombre-producto" value="chandal marvel ninos adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -729,7 +729,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="38">
                     <input type="hidden" name="nombre-producto" value="chandal futbol ninos adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -748,7 +748,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="39">
                     <input type="hidden" name="nombre-producto" value="chandal Ajax ninos adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -767,7 +767,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="40">
                     <input type="hidden" name="nombre-producto" value="chandal Bayern ninos adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -786,7 +786,7 @@
                 </a>
                 <div class="descripcion">75€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="41">
                     <input type="hidden" name="nombre-producto" value="cazadora ninos adidas">
                     <input type="hidden" name="precio" value="75">
                     <p class="cantidad">
@@ -805,7 +805,7 @@
                 </a>
                 <div class="descripcion">55€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="42">
                     <input type="hidden" name="nombre-producto" value="chandal 100 ninos adidas">
                     <input type="hidden" name="precio" value="55">
                     <p class="cantidad">
@@ -824,7 +824,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="43">
                     <input type="hidden" name="nombre-producto" value="camiseta madrid ninos adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -843,7 +843,7 @@
                 </a>
                 <div class="descripcion">25€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="44">
                     <input type="hidden" name="nombre-producto" value="camiseta verde ninos adidas">
                     <input type="hidden" name="precio" value="25">
                     <p class="cantidad">
@@ -862,7 +862,7 @@
                 </a>
                 <div class="descripcion">15€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="9">
+                    <input type="hidden" name="id-producto" value="45">
                     <input type="hidden" name="nombre-producto" value="calcetines ninos adidas">
                     <input type="hidden" name="precio" value="15">
                     <p class="cantidad">
@@ -885,7 +885,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="46">
                     <input type="hidden" name="nombre-producto" value="Zapatillas ultraboost adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -904,7 +904,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="47">
                     <input type="hidden" name="nombre-producto" value="Zapatillas zx adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -923,7 +923,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="48">
                     <input type="hidden" name="nombre-producto" value="Zapatillas superstar adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -942,7 +942,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="49">
                     <input type="hidden" name="nombre-producto" value="Zapatillas burgundy adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -962,7 +962,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="50">
                     <input type="hidden" name="nombre-producto" value="Zapatillas Stan Smith adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -982,7 +982,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="51">
                     <input type="hidden" name="nombre-producto" value="Zapatillas broomfield adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -1001,7 +1001,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="52">
                     <input type="hidden" name="nombre-producto" value="Zapatillas continental adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -1020,7 +1020,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="53">
                     <input type="hidden" name="nombre-producto" value="Zapatillas basket adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -1039,7 +1039,7 @@
                 </a>
                 <div class="descripcion">65€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="54">
                     <input type="hidden" name="nombre-producto" value="Zapatillas adizero adidas">
                     <input type="hidden" name="precio" value="65">
                     <p class="cantidad">
@@ -1058,7 +1058,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="55">
                     <input type="hidden" name="nombre-producto" value="Deportivas verdes adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -1077,7 +1077,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="56">
                     <input type="hidden" name="nombre-producto" value="Deportivas rojas adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -1096,7 +1096,7 @@
                 </a>
                 <div class="descripcion">60€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="57">
                     <input type="hidden" name="nombre-producto" value="Deportivas negras adidas">
                     <input type="hidden" name="precio" value="60">
                     <p class="cantidad">
@@ -1115,7 +1115,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="58">
                     <input type="hidden" name="nombre-producto" value="Deportivas lego adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
@@ -1134,7 +1134,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="59">
                     <input type="hidden" name="nombre-producto" value="Deportivas kitty adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
@@ -1153,7 +1153,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="60">
                     <input type="hidden" name="nombre-producto" value="Deportivas dalmata adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
@@ -1172,7 +1172,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="61">
                     <input type="hidden" name="nombre-producto" value="Deportivas blancaRosa adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">
@@ -1191,7 +1191,7 @@
                 </a>
                 <div class="descripcion">50€</div>
                 <form action="carrito.php" method="post">
-                    <input type="hidden" name="id-producto" value="14">
+                    <input type="hidden" name="id-producto" value="62">
                     <input type="hidden" name="nombre-producto" value="Deportivas blancaAzul adidas">
                     <input type="hidden" name="precio" value="50">
                     <p class="cantidad">

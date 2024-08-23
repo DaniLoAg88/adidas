@@ -17,7 +17,8 @@
 <div class="header">
 <?php
     if(isset($_SESSION["usuario"])){
-        echo "<img src='media/user.svg' alt='imagen usuario' class='icono'>".$_SESSION["usuario"];
+        // echo "<img src='media/user.svg' alt='imagen usuario' class='icono'>".$_SESSION["usuario"];
+        echo '<a href="logout.php" class="icono"><img src="media/logout.svg" alt="Cerrar sesión"></a>'.$_SESSION["usuario"];
     }else{
 ?>
 
@@ -26,7 +27,7 @@
 <?php
     }
 ?>
-    <a href="carrito.php" class="icono"><img src="media/carrito.svg" alt="imagen carrito"></a>
+    <a href="mostrarCarrito.php" class="icono"><img src="media/carrito.svg" alt="imagen carrito"></a>
 
 <?php
     if(isset($_SESSION["carrito"])){
